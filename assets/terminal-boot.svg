@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="248" viewBox="0 0 540 248" role="img" aria-label="Animated terminal boot sequence for Ezra Odyn">
+  <defs>
+    <clipPath id="c1"><rect x="0" y="42" width="0" height="20"><animate attributeName="width" from="0" to="62" dur="0.35s" begin="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="64" width="0" height="20"><animate attributeName="width" from="0" to="234" dur="1.3s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="90" width="0" height="20"><animate attributeName="width" from="0" to="167" dur="0.9s" begin="2.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="112" width="0" height="20"><animate attributeName="width" from="0" to="370" dur="2.1s" begin="3.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="138" width="0" height="20"><animate attributeName="width" from="0" to="122" dur="0.7s" begin="6.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="0" y="160" width="0" height="20"><animate attributeName="width" from="0" to="430" dur="2.4s" begin="7.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="0" y="186" width="0" height="20"><animate attributeName="width" from="0" to="62" dur="0.35s" begin="9.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c8"><rect x="0" y="208" width="0" height="20"><animate attributeName="width" from="0" to="47" dur="0.3s" begin="10.5s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="8" y="8" width="524" height="232" rx="12" fill="#0a0a12" stroke="#23233a"/>
+  <line x1="8" y1="34" x2="532" y2="34" stroke="#1c1c28"/>
+
+  <circle cx="28" cy="21" r="5" fill="#3f3f55"/>
+  <circle cx="48" cy="21" r="5" fill="#3f3f55"/>
+  <circle cx="68" cy="21" r="5" fill="#8b5cf6"/>
+
+  <text x="516" y="26" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9.5" fill="#52525b" letter-spacing="1">ezra@odyn: ~</text>
+
+  <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12.5">
+    <g clip-path="url(#c1)">
+      <text x="24" y="56"><tspan fill="#8b5cf6">$ </tspan><tspan fill="#f4f4f8">whoami</tspan></text>
+    </g>
+    <g clip-path="url(#c2)">
+      <text x="24" y="78" fill="#c4c8d6">ezra_5566 — builder @ odyn.labs</text>
+    </g>
+    <g clip-path="url(#c3)">
+      <text x="24" y="104"><tspan fill="#8b5cf6">$ </tspan><tspan fill="#f4f4f8">core.init --profile</tspan></text>
+    </g>
+    <g clip-path="url(#c4)">
+      <text x="24" y="126" fill="#9aa0b4">SYSTEMS ENGINEER · CREATIVE DEV · NIX ENTHUSIAST</text>
+    </g>
+    <g clip-path="url(#c5)">
+      <text x="24" y="152"><tspan fill="#8b5cf6">$ </tspan><tspan fill="#f4f4f8">skills --scan</tspan></text>
+    </g>
+    <g clip-path="url(#c6)">
+      <text x="24" y="174" fill="#9aa0b4">PY · TS · JS · LUA · REACT · NEXT · NODE · TAILWIND · THREE</text>
+    </g>
+    <g clip-path="url(#c7)">
+      <text x="24" y="200"><tspan fill="#8b5cf6">$ </tspan><tspan fill="#f4f4f8">status</tspan></text>
+    </g>
+    <g clip-path="url(#c8)">
+      <text x="24" y="222" fill="#f4f4f8">ONLINE</text>
+    </g>
+  </g>
+
+  <rect x="24" y="211" width="9" height="15" fill="#8b5cf6" opacity="0">
+    <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.45;0.5;1" dur="1.2s" repeatCount="indefinite" begin="11.2s"/>
+  </rect>
+
+  <text x="516" y="222" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#3f3f52">auto-boot · 0 errors</text>
+
+  <rect x="8" y="238" width="524" height="2" rx="1" fill="#8b5cf6" opacity="0.7"/>
+</svg>
