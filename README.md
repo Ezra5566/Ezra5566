@@ -103,19 +103,9 @@
 
 <!-- ── 03 · TELEMETRY ─────────────────────────────────────────── -->
 <div style="border:1px solid #1d1d2b; background:#0a0a12; border-radius:12px; padding:16px 20px; margin:18px 0 0; text-align:left;">
-  <p style="margin:0 0 12px; font-size:11px; letter-spacing:3px; color:#8b5cf6;">// [ 03 ] TELEMETRY</p>
-  <table style="width:100%; border-collapse:collapse;">
-    <tr>
-      <td style="vertical-align:middle; padding:4px; text-align:center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ezra5566&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=8b5cf6&text_color=9aa0b4&ring_color=8b5cf6&include_all_commits=true&count_private=true" alt="GitHub stats" style="max-width:100%;">
-      </td>
-      <td style="vertical-align:middle; padding:4px; text-align:center;">
-        <img src="https://streak-stats.demolab.com?user=Ezra5566&background=00000000&hide_border=true&stroke=3a3a52&ring=8b5cf6&fire=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=6d7388" alt="GitHub streak" style="max-width:100%;">
-      </td>
-    </tr>
-  </table>
-  <p style="margin:10px 0 0; text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezra5566&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=9aa0b4&include_all_commits=true&count_private=true" alt="Top languages" style="max-width:460px;">
+  <p style="margin:0 0 12px; font-size:11px; letter-spacing:3px; color:#8b5cf6;">// [ 03 ] TELEMETRY <span style="color:#4b4b5e;">· auto-synced from github</span></p>
+  <p style="margin:0; text-align:center;">
+    <img src="./assets/telemetry-stats.svg" alt="Live telemetry snapshot — repos, stars, followers, languages" style="width:100%; max-width:560px;">
   </p>
 </div>
 
@@ -123,7 +113,7 @@
 <div style="border:1px solid #1d1d2b; background:#0a0a12; border-radius:12px; padding:16px 20px; margin:18px 0 0; text-align:left;">
   <p style="margin:0 0 12px; font-size:11px; letter-spacing:3px; color:#8b5cf6;">// [ 04 ] CONTRIBUTION_MATRIX</p>
   <p style="margin:0; text-align:center;">
-    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph — night view" style="width:100%; max-width:760px;">
+    <img src="./assets/contribution-matrix.svg" alt="Animated contribution matrix — last 53 weeks" style="width:100%; max-width:760px;">
   </p>
 </div>
 
