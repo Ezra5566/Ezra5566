@@ -81,6 +81,6 @@
   <rect x="0" y="0" width="560" height="34" fill="url(#scanG)" opacity="0.5">
     <animate attributeName="y" values="0;340" dur="7s" repeatCount="indefinite"/>
   </rect>
-  <text x="536" y="326" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#4b4b5e" letter-spacing="1">SYNC 08.31.2026 · SRC GITHUB</text>
+  <text x="536" y="326" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#4b4b5e" letter-spacing="1">SYNC 09.01.2026 · SRC GITHUB</text>
   <rect x="0" y="338" width="560" height="2" fill="#8b5cf6" opacity="0.7"/>
 </svg>
