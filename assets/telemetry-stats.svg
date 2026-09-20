@@ -22,7 +22,7 @@
   </circle>
   <text x="24" y="34" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#8b5cf6" letter-spacing="2">// TELEMETRY · LIVE_SNAPSHOT</text>
   <text x="24" y="66" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" fill="#6d7388" letter-spacing="1">PUBLIC REPOS</text>
-  <text x="158" y="66" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14" fill="#f4f4f8">69</text>
+  <text x="158" y="66" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14" fill="#f4f4f8">71</text>
   <rect x="184" y="56" width="250" height="7" rx="3.5" fill="#16161f"/>
   <rect x="184" y="56" width="248" height="7" rx="3.5" fill="url(#bar)">
     <animate attributeName="width" from="0" to="248" dur="0.9s" begin="0.5s" fill="freeze"/>
@@ -30,8 +30,8 @@
   <text x="24" y="92" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" fill="#6d7388" letter-spacing="1">TOTAL STARS</text>
   <text x="158" y="92" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14" fill="#f4f4f8">4</text>
   <rect x="184" y="82" width="250" height="7" rx="3.5" fill="#16161f"/>
-  <rect x="184" y="82" width="14" height="7" rx="3.5" fill="url(#bar)">
-    <animate attributeName="width" from="0" to="14" dur="0.9s" begin="0.72s" fill="freeze"/>
+  <rect x="184" y="82" width="13" height="7" rx="3.5" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="13" dur="0.9s" begin="0.72s" fill="freeze"/>
   </rect>
   <text x="24" y="118" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" fill="#6d7388" letter-spacing="1">FOLLOWERS</text>
   <text x="158" y="118" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14" fill="#f4f4f8">3</text>
@@ -42,13 +42,13 @@
   <text x="24" y="144" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" fill="#6d7388" letter-spacing="1">FOLLOWING</text>
   <text x="158" y="144" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14" fill="#f4f4f8">6</text>
   <rect x="184" y="134" width="250" height="7" rx="3.5" fill="#16161f"/>
-  <rect x="184" y="134" width="21" height="7" rx="3.5" fill="url(#bar)">
-    <animate attributeName="width" from="0" to="21" dur="0.9s" begin="1.1600000000000001s" fill="freeze"/>
+  <rect x="184" y="134" width="20" height="7" rx="3.5" fill="url(#bar)">
+    <animate attributeName="width" from="0" to="20" dur="0.9s" begin="1.1600000000000001s" fill="freeze"/>
   </rect>
   <line x1="24" y1="174" x2="536" y2="174" stroke="#1d1d2b"/>
   <text x="24" y="200" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#8b5cf6" letter-spacing="2">// LANG.SCAN</text>
   <text x="24" y="224" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" fill="#6d7388" letter-spacing="1">TYPESCRIPT</text>
-  <text x="158" y="224" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f4f8">19%</text>
+  <text x="158" y="224" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f4f8">18%</text>
   <rect x="184" y="215" width="300" height="5" rx="2.5" fill="#16161f"/>
   <rect x="184" y="215" width="300" height="5" rx="2.5" fill="#8b5cf6">
     <animate attributeName="width" from="0" to="300" dur="0.8s" begin="1.6s" fill="freeze"/>
@@ -60,13 +60,13 @@
     <animate attributeName="width" from="0" to="230" dur="0.8s" begin="1.78s" fill="freeze"/>
   </rect>
   <text x="24" y="268" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" fill="#6d7388" letter-spacing="1">CSS</text>
-  <text x="158" y="268" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f4f8">12%</text>
+  <text x="158" y="268" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f4f8">11%</text>
   <rect x="184" y="259" width="300" height="5" rx="2.5" fill="#16161f"/>
   <rect x="184" y="259" width="184" height="5" rx="2.5" fill="#8b5cf6">
     <animate attributeName="width" from="0" to="184" dur="0.8s" begin="1.96s" fill="freeze"/>
   </rect>
   <text x="24" y="290" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" fill="#6d7388" letter-spacing="1">HTML</text>
-  <text x="158" y="290" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f4f8">12%</text>
+  <text x="158" y="290" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f4f8">11%</text>
   <rect x="184" y="281" width="300" height="5" rx="2.5" fill="#16161f"/>
   <rect x="184" y="281" width="184" height="5" rx="2.5" fill="#8b5cf6">
     <animate attributeName="width" from="0" to="184" dur="0.8s" begin="2.14s" fill="freeze"/>
@@ -77,10 +77,10 @@
   <rect x="184" y="303" width="92" height="5" rx="2.5" fill="#8b5cf6">
     <animate attributeName="width" from="0" to="92" dur="0.8s" begin="2.3200000000000003s" fill="freeze"/>
   </rect>
-  <text x="24" y="326" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#4b4b5e" letter-spacing="1">SINCE 2020 · 69 REPOS SCANNED</text>
+  <text x="24" y="326" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#4b4b5e" letter-spacing="1">SINCE 2020 · 71 REPOS SCANNED</text>
   <rect x="0" y="0" width="560" height="34" fill="url(#scanG)" opacity="0.5">
     <animate attributeName="y" values="0;340" dur="7s" repeatCount="indefinite"/>
   </rect>
-  <text x="536" y="326" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#4b4b5e" letter-spacing="1">SYNC 09.19.2026 · SRC GITHUB</text>
+  <text x="536" y="326" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#4b4b5e" letter-spacing="1">SYNC 09.20.2026 · SRC GITHUB</text>
   <rect x="0" y="338" width="560" height="2" fill="#8b5cf6" opacity="0.7"/>
 </svg>
